@@ -3,6 +3,7 @@
         "*.copilotmd": "vscode.markdown.preview.editor",
         "file:/**/*.csv": "jupyter-data-wrangler",
         "file:/**/*.jsonl": "jupyter-data-wrangler",
-        "*.ipynb": "jupyter-notebook"
+        "*.ipynb": "jupyter-notebook",
+        "*.parquet": "jupyter-data-wrangler"
     }
 }
